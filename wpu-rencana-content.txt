@@ -5,9 +5,9 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
-- Struktur data dasar
 - PHP Frameworks
-  ^ Laravel
+  ^ Laravel 
+- Struktur data dasar
 - Interview
 - Vlogs
 - Pyhton
